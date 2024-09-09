@@ -1,0 +1,16 @@
+   62  ls
+   63  git sTATUS
+   64  git status
+   65  git remote
+   66  git remote add origin git@github.com:sharonekula/IS601_HW1.git
+   67  git remote
+   68  git push -u origin master
+   69  git checkout -b Readmechanges
+   70  ls
+   71  vi readme.md
+   72  git add readme.md
+   73  git commit -m "Edited readmefile"
+   74  git push -u origin Readmechanges
+   75  git pull master origin
+   76  git fetch master origin
+   77  git fetch origin master
